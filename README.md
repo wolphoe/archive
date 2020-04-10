@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Archive of publication from Fütopi
 
-You can use the [editor on GitHub](https://github.com/wolphoe/archive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The PDF archives will be uploaded to: 
+- here 
+- [Archive.org](https://archive.org/details/@wolphoe) 
+- and also a copy at Wayback Machine
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## List of Archives (newest first)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- die Hypothese der Fütopi 30.03.2020 ([Archive.org](https://archive.org/details/dieHypothesederFutopi.archive30.03.2020), Wayback Machine)
+- die Hypothese der Fütopi 22.03.2020 ([Archive.org](https://archive.org/details/dieHypothesederFutopi.archive-22.03.2020), Wayback Machine)
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wolphoe/archive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**All archives are licensed under Academic Free License v3.0**
