@@ -1,7 +1,7 @@
 # Archive of publication from Fütopi
 
 The PDF archives will be uploaded to: 
-- here 
+- [GitHub](https://github.com/wolphoe/archive) 
 - [Archive.org](https://archive.org/details/@wolphoe) 
 - and also a copy at Wayback Machine
 
