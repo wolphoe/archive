@@ -16,4 +16,4 @@ The PDF archives will be uploaded to:
 
 ---
 
-**All archives are licensed under Academic Free License v3.0**
+[**All archives are licensed under Academic Free License v3.0**](wolphoe.github.io/archive/LICENSE.txt)
