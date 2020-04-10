@@ -9,8 +9,10 @@ The PDF archives will be uploaded to:
 
 ## List of Archives (newest first)
 
-- die Hypothese der Fütopi 30.03.2020 ([Archive.org](https://archive.org/details/dieHypothesederFutopi.archive30.03.2020), Wayback Machine)
-- die Hypothese der Fütopi 22.03.2020 ([Archive.org](https://archive.org/details/dieHypothesederFutopi.archive-22.03.2020), Wayback Machine)
+*By clicking the File Name, it'll take you to the GitHub preview Page, click "raw file" instead if you want to view it as a PDF File*
+
+- [die Hypothese der Fütopi 30.03.2020](https://github.com/wolphoe/archive/blob/master/die%20Hypothese%20der%20F%C3%BCtopi.archive-30.03.2020.pdf) ([Archive.org](https://archive.org/details/dieHypothesederFutopi.archive30.03.2020), Wayback Machine, [raw file](https://github.com/wolphoe/archive/raw/master/die%20Hypothese%20der%20F%C3%BCtopi.archive-30.03.2020.pdf))
+- [die Hypothese der Fütopi 22.03.2020](https://github.com/wolphoe/archive/blob/master/die%20Hypothese%20der%20F%C3%BCtopi.archive-22.03.2020.pdf) ([Archive.org](https://archive.org/details/dieHypothesederFutopi.archive-22.03.2020), Wayback Machine, [raw file](https://github.com/wolphoe/archive/raw/master/die%20Hypothese%20der%20F%C3%BCtopi.archive-22.03.2020.pdf))
 
 ---
 
